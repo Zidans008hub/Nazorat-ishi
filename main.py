@@ -6,7 +6,6 @@ import asyncio
 
 TOKEN = ""
 
-
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
